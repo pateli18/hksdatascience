@@ -1,7 +1,7 @@
-# DOCS
+# docs
 
 Files for website
 
-# Flyers
+# flyers
 
 Files for flyers posted in school
