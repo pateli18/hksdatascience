@@ -106,3 +106,9 @@ footer .glyphicon {
       font-size: 150px;
   }
 }
+
+.event {
+  font-size: 2em;
+  background-color: rgba(0,0,128,0.8);
+  margin-top: 20px;
+}
